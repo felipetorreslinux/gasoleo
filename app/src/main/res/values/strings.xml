@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GasOleo</string>
+    <string name="label_progress_webview">Carregando...</string>
+</resources>
